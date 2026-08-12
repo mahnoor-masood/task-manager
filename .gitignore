@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Environment variables
+.env
+server/.env
+
+# Build output
+dist/
+client/dist/
+
+# Prisma generated files
+server/generated/
+
+# Editor
+.vscode/
+
+# OS files
+.DS_Store
