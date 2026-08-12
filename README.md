@@ -40,7 +40,7 @@ task-manager/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/mahnoor-masood/task-manager.git >
 cd task-manager
 ```
 
@@ -84,8 +84,9 @@ Frontend runs on `http://localhost:5173`
 
 ## Deployment
 
-- Backend deployed on: [Render/Railway link here]
-- Frontend deployed on: [Vercel link here]
+- Backend deployed on: [(https://task-manager-production-20b1.up.railway.app)]
+- Frontend deployed on: [https://task-manager-teal-kappa-87.vercel.app]
+- Live App: [https://task-manager-teal-kappa-87.vercel.app]
 
 ## Author
 
